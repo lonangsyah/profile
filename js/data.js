@@ -34,14 +34,14 @@ const siteData = {
     {
       degree: "Magister Komputer (M.Kom.)",
       institution: "Universitas Ahmad Dahlan (UAD) - Yogyakarta",
-      program: "Concentrations: Artificial Intelligence & Machine Learning",
+      program: "Concentrations: Machine Learning and Health Informatics",
       year: "2022 – 2024",
       gpa: "IPK: 3.76 / 4.00 - Cum Laude",
     },
     {
       degree: "Sarjana Komputer (S.Kom.)",
       institution: "Universitas Ahmad Dahlan (UAD) - Yogyakarta",
-      program: "Program Studi Ilmu Komputer",
+      program: "Concentrations: Artificial Intelligence",
       year: "2017 – 2021",
       gpa: "IPK: 3.71 / 4.00 — Cum Laude",
     }
