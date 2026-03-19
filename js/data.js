@@ -146,7 +146,7 @@ const siteData = {
     },
     {
       title: "Improved Malnutrition Classification in Toddlers Using Mutual Information-Guided Feature Selection and Hybrid KNN–MLP Ensemble Learning",
-      venue: "J",
+      venue: "Journal of Innovation Information Technology and Application (JINITA)",
       year: 2025,
       authors: "Lonang, S., Yudhana, A., & Saifullah, S.",
       doi: "https://ejournal.pnc.ac.id/index.php/jinita/article/view/2831/1022",
