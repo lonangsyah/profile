@@ -255,11 +255,11 @@
 
   .navbar__links {
     display: none;
-    position: fixed;
-    top: var(--nav-height);
+    position: absolute;
+    top: 100%;
     left: 0;
     right: 0;
-    bottom: 0;
+    height: 100vh;
     background: var(--color-bg-primary);
     flex-direction: column;
     padding: var(--space-6);
